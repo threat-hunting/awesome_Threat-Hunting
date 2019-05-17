@@ -1,2 +1,2 @@
-# excellent-threat-detection
+# Excellent Threat Detection
 
