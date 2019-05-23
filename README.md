@@ -33,11 +33,23 @@
 - [A Simple Hunting Maturity Model](http://detect-respond.blogspot.com/2015/10/a-simple-hunting-maturity-model.html)
 - [Detecting Data Staging & Exfil Using the Producer-Consumer Ratio](http://detect-respond.blogspot.com/2016/09/detecting-data-staging-exfil-using-PCR-shift.html)
 - [The Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
+- [On TTPs](http://ryanstillions.blogspot.com/2014/04/on-ttps.html)
 - [Cyber Hunting: 5 Tips To Bag Your Prey](https://www.darkreading.com/risk/cyber-hunting-5-tips-to-bag-your-prey/a/d-id/1319634?_mc=RSS_DR_EDT)
 - [Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations)
 - [A Guide to Cyber Threat Hunting Operations](https://www.infosecurity-magazine.com/opinions/a-guide-to-cyber-threat-hunting/)
-- []()
-
+- [malwarearchaeology](https://www.malwarearchaeology.com)
+- [Windows Log Hunting with PowerShell](http://909research.com/windows-log-hunting-with-powershell/)
+- [Defending Against Mimikatz](https://jimshaver.net/2016/02/14/defending-against-mimikatz/)
+- [Active Directory Security](https://adsecurity.org/)
+- [A Guide toCyber Threat Hunting](https://www.tylertech.com/services/ndiscovery/nDiscovery-Threat-Hunting.pdf)
+- [Generating Hypotheses for Successful Threat Hunting](https://www.sans.org/reading-room/whitepapers/analyst/generating-hypotheses-successful-threat-hunting-37172)
+- [Detecting the ElusiveActive,Active Directory Threat Hunting](https://adsecurity.org/wp-content/uploads/2017/04/2017-BSidesCharm-DetectingtheElusive-ActiveDirectoryThreatHunting-Final.pdf)
+- [Expert Investigation Guide - Threat Hunting](https://github.com/Foundstone/ExpertInvestigationGuides/tree/master/ThreatHunting)
+- [Identifying Malware Traffic with Bro and the Collective Intelligence Framework (CIF)](http://blog.opensecurityresearch.com/2014/03/identifying-malware-traffic-with-bro.html)
+- [Finding Algorithmically chosen DNS names (DGA)](https://isc.sans.edu/forums/diary/Detecting+Random+Finding+Algorithmically+chosen+DNS+names+DGA/19893/)
+- [Threat Hunting For Fileless Malware](https://www.countercept.com/blog/threat-hunting-for-fileless-malware/)
+- [Windows Commands Abused by Attackers](https://blogs.jpcert.or.jp/en/2016/01/windows-commands-abused-by-attackers.html)
+- Hunting on the Cheap [Part1](https://www.endgame.com/blog/technical-blog/hunting-cheap-part-1-architecture),[Part2](https://www.endgame.com/blog/technical-blog/hunting-networks-part-2-higher-order-patterns),[Part3](https://www.endgame.com/blog/technical-blog/hunting-cheap-part-3-hunting-hosts),[Slide](https://files.sans.org/summit/Threat_Hunting_Incident_Response_Summit_2016/PDFs/Hunting-on-the-Cheap-Butler-Ahuja-Morris-Endgame.pdf)
 
 **Tools**
 - [HASSH](https://github.com/salesforce/hassh): HASSH is a network fingerprinting standard which can be used to identify specific Client and Server SSH implementations. The fingerprints can be easily stored, searched and shared in the form of a small MD5 fingerprint.
@@ -64,6 +76,7 @@
 - [Zeek](https://www.zeek.org/): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know
 - [suricata](https://suricata-ids.org/): Suricata is a free and open source, mature, fast and robust network threat detection engine.
 - [Splunk Boss of the SOC version 2 dataset](https://github.com/splunk/botsv2): A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts.
+- [Samples of Security Related Data](https://www.secrepo.com/)
 
 
 **Trainings**
