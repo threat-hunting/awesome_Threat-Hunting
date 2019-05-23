@@ -11,49 +11,30 @@
 
 **Documents , Trainings, Resources**
 - [The ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook): A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
-- [Huntpedia](https://www.threathunting.net/files/huntpedia.pdf):
-- [A Practical Model for Conducting Cyber Threat Hunting](https://www.sans.org/reading-room/whitepapers/threathunting/practical-model-conducting-cyber-threat-hunting-38710):
-
-- [TaHiTI Threat Hunting Methodology](https://www.betaalvereniging.nl/wp-content/uploads/DEF-TaHiTI-Threat-Hunting-Methodology.pdf):
-
-- [Threat Hunting For Dummie](https://www.afcea.org/signal/resources/content/Threat_Hunting_For_Dummies_Carbon-Black.pdf):
-
-- [Hunting Threats in Your Enterprise](https://conference.hitb.org/hitbsecconf2018dxb/materials/D2%20BSIDES%20-%20Hunting%20Threats%20in%20Your%20Enterprise%20-%20Abdulrahman%20Alnimari.pdf):
-
-- [The Hunter's Handbook](https://cyber-edge.com/wp-content/uploads/2016/08/The-Hunters-Handbook.pdf):
-
-- [Central-Indiana-ISSA-Threat-Hunting](https://ci-issa.org/wp-content/uploads/2018/10/Central-Indiana-ISSA-Threat-Hunting.pdf):
-
-- [The ThreatHunting Project](https://www.threathunting.net/):
-
-- [Launching Threat Hunting From Almost Nothing](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1536354143.pdf):
-
-- [Cyber Threat Hunting EC-Council](https://ciso.eccouncil.org/wp-content/uploads/2017/06/Cyber-Threat-Hunting.pdf):
-
+- [Huntpedia](https://www.threathunting.net/files/huntpedia.pdf)
+- [A Practical Model for Conducting Cyber Threat Hunting](https://www.sans.org/reading-room/whitepapers/threathunting/practical-model-conducting-cyber-threat-hunting-38710)
+- [TaHiTI Threat Hunting Methodology](https://www.betaalvereniging.nl/wp-content/uploads/DEF-TaHiTI-Threat-Hunting-Methodology.pdf)
+- [Threat Hunting For Dummie](https://www.afcea.org/signal/resources/content/Threat_Hunting_For_Dummies_Carbon-Black.pdf)
+- [Hunting Threats in Your Enterprise](https://conference.hitb.org/hitbsecconf2018dxb/materials/D2%20BSIDES%20-%20Hunting%20Threats%20in%20Your%20Enterprise%20-%20Abdulrahman%20Alnimari.pdf)
+- [The Hunter's Handbook](https://cyber-edge.com/wp-content/uploads/2016/08/The-Hunters-Handbook.pdf)
+- [Central-Indiana-ISSA-Threat-Hunting](https://ci-issa.org/wp-content/uploads/2018/10/Central-Indiana-ISSA-Threat-Hunting.pdf)
+- [The ThreatHunting Project](https://www.threathunting.net/)
+- [Launching Threat Hunting From Almost Nothing](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1536354143.pdf)
+- [Cyber Threat Hunting EC-Council](https://ciso.eccouncil.org/wp-content/uploads/2017/06/Cyber-Threat-Hunting.pdf)
 - [scalable methods conducting cyber threat hunt operations](https://www.giac.org/paper/gsec/38852/scalable-methods-conducting-cyber-threat-hunt-operations/152744):
 - [Threat Hunting with Bro IDS](https://www.jamesbower.com/threat-hunting-with-bro-ids/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=social#14225595-tw%231487983917678):
-- [Automating APT Scanning with Loki Scanner and Splunk](https://www.redblue.team/2017/04/automating-apt-scanning-with-loki.html?m=1):
-- [Cyber Threat hunting with Sqrr](https://cyber-ir.com/2017/04/19/cyber-threat-hunting-with-sqrrl-from-beaconing-to-lateral-movement/amp/):
-
-- [Detecting Lateral Movement through Tracking Event Logs](https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf):
-
-- [Endpoint Detection of Remote Service Creation and PsExec](https://countercept.com/blog/endpoint-detection-of-remote-service-creation-and-psexec/):
-
-- [Threat Hunting: Open Season on the Adversary](https://www.sans.org/reading-room/whitepapers/analyst/threat-hunting-open-season-adversary-36882):
+- [Automating APT Scanning with Loki Scanner and Splunk](https://www.redblue.team/2017/04/automating-apt-scanning-with-loki.html?m=1)
+- [Cyber Threat hunting with Sqrr](https://cyber-ir.com/2017/04/19/cyber-threat-hunting-with-sqrrl-from-beaconing-to-lateral-movement/amp/)
+- [Detecting Lateral Movement through Tracking Event Logs](https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf)
+- [Endpoint Detection of Remote Service Creation and PsExec](https://countercept.com/blog/endpoint-detection-of-remote-service-creation-and-psexec/)
+- [Threat Hunting: Open Season on the Adversary](https://www.sans.org/reading-room/whitepapers/analyst/threat-hunting-open-season-adversary-36882)
 - [The Who, What, Where, When, Why and How of Effective Threat Hunting](https://www.sans.org/reading-room/whitepapers/analyst/who-what-where-when-effective-threat-hunting-36785)
-
 - [Hunting for Malware Critical Process Impersonation](http://detect-respond.blogspot.com/2016/11/hunting-for-malware-critical-process.html)
-
 - [A Simple Hunting Maturity Model](http://detect-respond.blogspot.com/2015/10/a-simple-hunting-maturity-model.html)
-
 - [Detecting Data Staging & Exfil Using the Producer-Consumer Ratio](http://detect-respond.blogspot.com/2016/09/detecting-data-staging-exfil-using-PCR-shift.html)
-
 - [The Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
-
 - [Cyber Hunting: 5 Tips To Bag Your Prey](https://www.darkreading.com/risk/cyber-hunting-5-tips-to-bag-your-prey/a/d-id/1319634?_mc=RSS_DR_EDT)
-
 - [Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations)
-
 - [A Guide to Cyber Threat Hunting Operations](https://www.infosecurity-magazine.com/opinions/a-guide-to-cyber-threat-hunting/)
 - []()
 
