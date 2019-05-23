@@ -13,7 +13,7 @@
 - [Awesome Threat Detection and Hunting Repository](https://github.com/0x4D31/awesome-threat-detection#resources)
 
 **Tools**
-- [HASSH](https://github.com/salesforce/hassh) HASSH is a network fingerprinting standard which can be used to identify specific Client and Server SSH implementations. The fingerprints can be easily stored, searched and shared in the form of a small MD5 fingerprint.
+- [HASSH](https://github.com/salesforce/hassh): HASSH is a network fingerprinting standard which can be used to identify specific Client and Server SSH implementations. The fingerprints can be easily stored, searched and shared in the form of a small MD5 fingerprint.
 
 **Trainings**
 - [Awesome Threat Detection and Hunting Repository](https://github.com/0x4D31/awesome-threat-detection#resources)
