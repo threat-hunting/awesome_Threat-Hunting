@@ -32,6 +32,7 @@
 - [Hunting for Malware Critical Process Impersonation](http://detect-respond.blogspot.com/2016/11/hunting-for-malware-critical-process.html)
 - [A Simple Hunting Maturity Model](http://detect-respond.blogspot.com/2015/10/a-simple-hunting-maturity-model.html)
 - [Detecting Data Staging & Exfil Using the Producer-Consumer Ratio](http://detect-respond.blogspot.com/2016/09/detecting-data-staging-exfil-using-PCR-shift.html)
+- [Threat Hunting Techniques - AV, Proxy, DNS and HTTP Logs](https://www.cyberhuntz.com/2016/08/threat-hunting-techniques-av-proxy-dns.html)
 - [The Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 - [On TTPs](http://ryanstillions.blogspot.com/2014/04/on-ttps.html)
 - [Cyber Hunting: 5 Tips To Bag Your Prey](https://www.darkreading.com/risk/cyber-hunting-5-tips-to-bag-your-prey/a/d-id/1319634?_mc=RSS_DR_EDT)
@@ -42,14 +43,23 @@
 - [Defending Against Mimikatz](https://jimshaver.net/2016/02/14/defending-against-mimikatz/)
 - [Active Directory Security](https://adsecurity.org/)
 - [A Guide toCyber Threat Hunting](https://www.tylertech.com/services/ndiscovery/nDiscovery-Threat-Hunting.pdf)
+- [Detecting malware beacons using Splunk](https://pleasefeedthegeek.wordpress.com/2012/12/20/detecting-malware-beacons-using-splunk/)
 - [Generating Hypotheses for Successful Threat Hunting](https://www.sans.org/reading-room/whitepapers/analyst/generating-hypotheses-successful-threat-hunting-37172)
 - [Detecting the ElusiveActive,Active Directory Threat Hunting](https://adsecurity.org/wp-content/uploads/2017/04/2017-BSidesCharm-DetectingtheElusive-ActiveDirectoryThreatHunting-Final.pdf)
 - [Expert Investigation Guide - Threat Hunting](https://github.com/Foundstone/ExpertInvestigationGuides/tree/master/ThreatHunting)
 - [Identifying Malware Traffic with Bro and the Collective Intelligence Framework (CIF)](http://blog.opensecurityresearch.com/2014/03/identifying-malware-traffic-with-bro.html)
 - [Finding Algorithmically chosen DNS names (DGA)](https://isc.sans.edu/forums/diary/Detecting+Random+Finding+Algorithmically+chosen+DNS+names+DGA/19893/)
+- [Catching attackers with go-audit and a logging pipeline](https://summitroute.com/blog/2016/12/25/Catching_attackers_with_go-audit_and_a_logging_pipeline/)
+- [Building a real-time threat detection capability with Tanium that focuses on documented adversarial techniques](https://www.pwc.co.uk/issues/cyber-security-data-privacy/research/signal-att-and-ck-part-1.html)
 - [Threat Hunting For Fileless Malware](https://www.countercept.com/blog/threat-hunting-for-fileless-malware/)
 - [Windows Commands Abused by Attackers](https://blogs.jpcert.or.jp/en/2016/01/windows-commands-abused-by-attackers.html)
 - Hunting on the Cheap [Part1](https://www.endgame.com/blog/technical-blog/hunting-cheap-part-1-architecture),[Part2](https://www.endgame.com/blog/technical-blog/hunting-networks-part-2-higher-order-patterns),[Part3](https://www.endgame.com/blog/technical-blog/hunting-cheap-part-3-hunting-hosts),[Slide](https://files.sans.org/summit/Threat_Hunting_Incident_Response_Summit_2016/PDFs/Hunting-on-the-Cheap-Butler-Ahuja-Morris-Endgame.pdf)
+- [Data Science Hunting Funnel](http://www.austintaylor.io/network/traffic/threat/data/science/hunting/funnel/machine/learning/domain/expertise/2017/07/11/data-science-hunting-funnel/)
+- [JA3: SSL/TLS Client Fingerprinting for Malware Detection](https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41)
+- [TLS Fingerprinting with JA3 and JA3S](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967)
+- [A profiling method for SSH Clients and Servers](https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c),[Slide](https://github.com/benjeems/Presentations/blob/master/BSides%202019%20%20-%20HASSH%20-%20a%20Profiling%20Method%20for%20SSH%20Clients%20and%20Servers.pdf)
+- [SANS cyber security summit archives](https://www.sans.org/cyber-security-summit/archives/)
+
 
 **Tools**
 - [HASSH](https://github.com/salesforce/hassh): HASSH is a network fingerprinting standard which can be used to identify specific Client and Server SSH implementations. The fingerprints can be easily stored, searched and shared in the form of a small MD5 fingerprint.
