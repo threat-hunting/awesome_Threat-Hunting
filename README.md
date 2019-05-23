@@ -30,8 +30,9 @@
 - [Oriana](https://github.com/mvelazc0/Oriana): Oriana is a threat hunting tool that leverages a subset of Windows events to build relationships, calculate totals and run analytics. The results are presented in a Web layer to help defenders identify outliers and suspicious behavior on corporate environments. 
 - [Detection Lab](https://github.com/clong/DetectionLab/): Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
 - [DeepBlueCLI](https://github.com/sans-blue-team/DeepBlueCLI): DeepBlueCLI - a PowerShell Module for Threat Hunting via Windows Event Logs
-- [Bro-Osquery](https://github.com/bro/bro-osquery): This extension adds a Bro interface to the host monitor osquery, enabling the network monitor Bro to subscribe to changes from hosts as a continous stream of events. 
-
+- [Bro-Osquery](https://github.com/bro/bro-osquery): This extension adds a Bro interface to the host monitor osquery, enabling the network monitor Bro to subscribe to changes from hosts as a continous stream of events.
+- [Zeek](https://www.zeek.org/): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know
+- [suricata](https://suricata-ids.org/): Suricata is a free and open source, mature, fast and robust network threat detection engine.
 
 **Trainings**
 - [Awesome Threat Detection and Hunting Repository](https://github.com/0x4D31/awesome-threat-detection#resources)
