@@ -59,6 +59,7 @@
 - [TLS Fingerprinting with JA3 and JA3S](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967)
 - [A profiling method for SSH Clients and Servers](https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c),[Slide](https://github.com/benjeems/Presentations/blob/master/BSides%202019%20%20-%20HASSH%20-%20a%20Profiling%20Method%20for%20SSH%20Clients%20and%20Servers.pdf)
 - [SANS cyber security summit archives](https://www.sans.org/cyber-security-summit/archives/)
+- [Leveraging DNS to Surface Attacker Activity](https://www.slideshare.net/sqrrl/leveraging-dns-to-surface-attacker-activity?from_action=save)
 
 
 **Tools**
