@@ -40,14 +40,20 @@
 - [Endpoint Detection of Remote Service Creation and PsExec](https://countercept.com/blog/endpoint-detection-of-remote-service-creation-and-psexec/):
 
 - [Threat Hunting: Open Season on the Adversary](https://www.sans.org/reading-room/whitepapers/analyst/threat-hunting-open-season-adversary-36882):
-
 - [The Who, What, Where, When, Why and How of Effective Threat Hunting](https://www.sans.org/reading-room/whitepapers/analyst/who-what-where-when-effective-threat-hunting-36785)
+
 -[Hunting for Malware Critical Process Impersonation](http://detect-respond.blogspot.com/2016/11/hunting-for-malware-critical-process.html)
+
 -[ A Simple Hunting Maturity Model](http://detect-respond.blogspot.com/2015/10/a-simple-hunting-maturity-model.html)
+
 -[Detecting Data Staging & Exfil Using the Producer-Consumer Ratio](http://detect-respond.blogspot.com/2016/09/detecting-data-staging-exfil-using-PCR-shift.html)
+
 -[The Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
+
 -[Cyber Hunting: 5 Tips To Bag Your Prey](https://www.darkreading.com/risk/cyber-hunting-5-tips-to-bag-your-prey/a/d-id/1319634?_mc=RSS_DR_EDT)
+
 -[Seek Evil, and Ye Shall Find: A Guide to Cyber Threat Hunting Operations](https://digitalguardian.com/blog/seek-evil-and-ye-shall-find-guide-cyber-threat-hunting-operations)
+
 -[A Guide to Cyber Threat Hunting Operations](https://www.infosecurity-magazine.com/opinions/a-guide-to-cyber-threat-hunting/)
 -[]()
 
