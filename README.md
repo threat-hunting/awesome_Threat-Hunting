@@ -9,7 +9,7 @@
 - [Elastic Detection Rules](https://github.com/cyberwarboy/excellent-threat-detection/tree/master/Elastic%20Detection%20Rules)
 - [Splunk Detection Rules](https://github.com/cyberwarboy/excellent-threat-detection/tree/master/Splunk%20Detection%20Rules)
 
-**Resources**
+**Documents , Blogs, Trainings, Resources**
 - [Awesome Threat Detection and Hunting Repository](https://github.com/0x4D31/awesome-threat-detection#resources)
 
 **Tools**
@@ -33,6 +33,8 @@
 - [Bro-Osquery](https://github.com/bro/bro-osquery): This extension adds a Bro interface to the host monitor osquery, enabling the network monitor Bro to subscribe to changes from hosts as a continous stream of events.
 - [Zeek](https://www.zeek.org/): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know
 - [suricata](https://suricata-ids.org/): Suricata is a free and open source, mature, fast and robust network threat detection engine.
+- [Splunk Boss of the SOC version 2 dataset](https://github.com/splunk/botsv2): A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts.
+
 
 **Trainings**
 - [Awesome Threat Detection and Hunting Repository](https://github.com/0x4D31/awesome-threat-detection#resources)
