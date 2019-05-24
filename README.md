@@ -60,6 +60,12 @@
 - [A profiling method for SSH Clients and Servers](https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c),[Slide](https://github.com/benjeems/Presentations/blob/master/BSides%202019%20%20-%20HASSH%20-%20a%20Profiling%20Method%20for%20SSH%20Clients%20and%20Servers.pdf)
 - [SANS cyber security summit archives](https://www.sans.org/cyber-security-summit/archives/)
 - [Leveraging DNS to Surface Attacker Activity](https://www.slideshare.net/sqrrl/leveraging-dns-to-surface-attacker-activity?from_action=save)
+- [The PARIS Model](http://threathunter.guru/blog/the-paris-model/)
+- [Threat Hunting Maturity Model](http://threathunter.guru/blog/threat-hunting-maturity-model/)
+- [Cyber Kill Chain®](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+- [The DML model](http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html)
+- [Endgame Hunt Cycle](http://pages.endgame.com/rs/627-YBU-612/images/Endgame%20Hunt%20Methodology%20POV%203.24.16.pdf)
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 
 
 **Tools**
@@ -86,6 +92,7 @@
 - [Bro-Osquery](https://github.com/bro/bro-osquery): This extension adds a Bro interface to the host monitor osquery, enabling the network monitor Bro to subscribe to changes from hosts as a continous stream of events.
 - [Zeek](https://www.zeek.org/): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know
 - [suricata](https://suricata-ids.org/): Suricata is a free and open source, mature, fast and robust network threat detection engine.
+- [Sigma](https://github.com/Neo23x0/sigma):Sigma is a generic and open signature format that allows you to describe relevant log events in a straight forward manner. 
 - [Splunk Boss of the SOC version 2 dataset](https://github.com/splunk/botsv2): A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts.
 - [Samples of Security Related Data](https://www.secrepo.com/)
 
