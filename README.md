@@ -80,6 +80,22 @@
 - [Rise of Legitimate Services for Backdoor Command and Control](https://anomali.cdn.rackfoundry.net/files/anomali-labs-reports/legit-services.pdf)
 - [osquery Across the Enterprise](https://medium.com/palantir/osquery-across-the-enterprise-3c3c9d13ec55)
 - [osquery For Security-Part1](https://medium.com/@clong/osquery-for-security-b66fffdf2daf),[Part2](https://medium.com/@clong/osquery-for-security-part-2-2e03de4d3721)
+- [Tracking a stolen code-signing certificate with osquery](https://blog.trailofbits.com/2017/10/10/tracking-a-stolen-code-signing-certificate-with-osquery/)
+- [Monitoring macOS hosts with osquery](https://blog.kolide.com/monitoring-macos-hosts-with-osquery-ba5dcc83122d)
+- [Threat Hunting via Windows Event Logs](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1524493093.pdf)
+- [Windows Hunting - A collection of Windows hunting queries](https://github.com/beahunt3r/Windows-Hunting)
+- [Detecting Lateral Movement through Tracking Event Logs (Version 2)](https://blogs.jpcert.or.jp/en/2017/12/research-report-released-detecting-lateral-movement-through-tracking-event-logs-version-2.html)
+- [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
+- [Splunking the Endpoint: Threat Hunting with Sysmon](https://medium.com/@haggis_m/splunking-the-endpoint-threat-hunting-with-sysmon-9dd956e3e1bd)
+- [Hunting with Sysmon](https://medium.com/@haggis_m/hunting-with-sysmon-38de012e62e6)
+- [Hunting for In-Memory Mimikatz with Sysmon and ELK - Part I](https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for.html)
+- [Hunting for In-Memory Mimikatz with Sysmon and ELK - Part II ](https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html)
+- [Advanced Incident Detection and Threat Hunting using Sysmon(and Splunk)- 2016](https://www.botconf.eu/wp-content/uploads/2016/11/PR12-Sysmon-UELTSCHI.pdf)
+- [Advanced Incident Detection and Threat Hunting using Sysmon (and Splunk)- 2017](https://www.first.org/resources/papers/conf2017/Advanced-Incident-Detection-and-Threat-Hunting-using-Sysmon-and-Splunk.pdf)
+- [The Sysmon and Threat Hunting Mimikatz wiki for the blue team](https://www.peerlyst.com/posts/the-sysmon-and-threat-hunting-mimikatz-wiki-for-the-blue-team-guurhart)
+-  PowerShell Obfuscation Detection Using Science( [Paper](https://www.blackhat.com/docs/us-17/thursday/us-17-Bohannon-Revoke-Obfuscation-PowerShell-Obfuscation-Detection-And%20Evasion-Using-Science-wp.pdf),[Slide](https://www.blackhat.com/docs/us-17/thursday/us-17-Bohannon-Revoke-Obfuscation-PowerShell-Obfuscation-Detection-And%20Evasion-Using-Science.pdf) )
+- []()
+
 
 
 **Tools**
