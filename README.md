@@ -1,8 +1,4 @@
 # Excellent Threat Detection
-> Pardon my French
-## Contents
-
-
 
 ## Threat Detection and Hunting
 **Rule Set**
@@ -94,9 +90,10 @@
 - [Advanced Incident Detection and Threat Hunting using Sysmon (and Splunk)- 2017](https://www.first.org/resources/papers/conf2017/Advanced-Incident-Detection-and-Threat-Hunting-using-Sysmon-and-Splunk.pdf)
 - [The Sysmon and Threat Hunting Mimikatz wiki for the blue team](https://www.peerlyst.com/posts/the-sysmon-and-threat-hunting-mimikatz-wiki-for-the-blue-team-guurhart)
 -  PowerShell Obfuscation Detection Using Science( [Paper](https://www.blackhat.com/docs/us-17/thursday/us-17-Bohannon-Revoke-Obfuscation-PowerShell-Obfuscation-Detection-And%20Evasion-Using-Science-wp.pdf),[Slide](https://www.blackhat.com/docs/us-17/thursday/us-17-Bohannon-Revoke-Obfuscation-PowerShell-Obfuscation-Detection-And%20Evasion-Using-Science.pdf) )
-- []()
-
-
+- [Hunting the Known Unknowns (With PowerShell)](https://conf.splunk.com/files/2016/slides/hunting-the-known-unknowns-the-powershell-edition.pdf)
+- [HellsBells, Let's Hunt PowerShells!](https://www.splunk.com/blog/2017/07/06/hellsbells-lets-hunt-powershells.html)
+- [Hunting for PowerShell Using Heatmaps](https://medium.com/@jshlbrd/hunting-for-powershell-using-heatmaps-69b70151fa5d)
+- [The Diamond Model of Intrusion Analysis](http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 
 **Tools**
 - [HASSH](https://github.com/salesforce/hassh): HASSH is a network fingerprinting standard which can be used to identify specific Client and Server SSH implementations. The fingerprints can be easily stored, searched and shared in the form of a small MD5 fingerprint.
@@ -128,7 +125,3 @@
 
 
 **Trainings**
-- [Awesome Threat Detection and Hunting Repository](https://github.com/0x4D31/awesome-threat-detection#resources)
-
-
-This site was built using [GitHub Pages](https://pages.github.com/).
