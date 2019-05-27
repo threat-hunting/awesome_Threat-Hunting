@@ -66,6 +66,20 @@
 - [The DML model](http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html)
 - [Endgame Hunt Cycle](http://pages.endgame.com/rs/627-YBU-612/images/Endgame%20Hunt%20Methodology%20POV%203.24.16.pdf)
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- [Detecting DNS Tunneling](https://www.sans.org/reading-room/whitepapers/dns/detecting-dns-tunneling-34152)
+- [Detecting dynamic DNS domains in Splunk](https://www.splunk.com/pdfs/events/govsummit/hunting_the_known_unknowns_with_DNS.pdf)
+- [Random Words on Entropy and DNS](https://www.splunk.com/blog/2015/10/01/random-words-on-entropy-and-dns.html)
+-[Tracking Newly Registered Domains](https://isc.sans.edu/diary/Tracking+Newly+Registered+Domains/23127)
+- [Suspicious Domains Tracking Dashboard](https://isc.sans.edu/forums/diary/Suspicious+Domains+Tracking+Dashboard/23046/)
+- [Proactive Malicious Domain Search](https://isc.sans.edu/forums/diary/Proactive+Malicious+Domain+Search/23065/)
+- [Using DNS to Expose and Thwart Attacks](https://www.first.org/resources/papers/conf2017/DNS-is-NOT-Boring-Using-DNS-to-Expose-and-Thwart-Attacks.pdf)
+-[Actionable Detects](https://prezi.com/vejpnxkm85ih/actionable-detects-dns-keynote/)
+- [Command-and-control Malware Traffic Playbook](https://www.demisto.com/command-control-malware-traffic-playbook/)
+-[How to Hunt Command & Control Channels Using Bro IDS and RITA](https://www.blackhillsinfosec.com/how-to-hunt-command-and-control-channels-using-bro-ids-and-rita/)
+- [Detect Beaconing with Flare, Elastic Stack, and Intrusion Detection Systems](http://www.austintaylor.io/detect/beaconing/intrusion/detection/system/command/control/flare/elastic/stack/2017/06/10/detect-beaconing-with-flare-elasticsearch-and-intrusion-detection-systems/)
+- [Rise of Legitimate Services for Backdoor Command and Control](https://anomali.cdn.rackfoundry.net/files/anomali-labs-reports/legit-services.pdf)
+- [osquery Across the Enterprise](https://medium.com/palantir/osquery-across-the-enterprise-3c3c9d13ec55)
+- [osquery For Security-Part1](https://medium.com/@clong/osquery-for-security-b66fffdf2daf),[Part2](https://medium.com/@clong/osquery-for-security-part-2-2e03de4d3721)
 
 
 **Tools**
