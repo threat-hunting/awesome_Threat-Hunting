@@ -6,6 +6,7 @@
 - [Splunk Detection Rules](https://github.com/cyberwarboy/excellent-threat-detection/tree/master/Splunk%20Detection%20Rules)
 
 **Documents , Trainings, Resources**
+- [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 - [The ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook): A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 - [Huntpedia](https://www.threathunting.net/files/huntpedia.pdf)
 - [A Practical Model for Conducting Cyber Threat Hunting](https://www.sans.org/reading-room/whitepapers/threathunting/practical-model-conducting-cyber-threat-hunting-38710)
