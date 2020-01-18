@@ -123,5 +123,3 @@
 - [Splunk Boss of the SOC version 2 dataset](https://github.com/splunk/botsv2): A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts.
 - [Samples of Security Related Data](https://www.secrepo.com/)
 
-
-**Trainings**
