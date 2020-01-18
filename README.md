@@ -1,9 +1,8 @@
 # Excellent Threat Detection
 
 ## Threat Detection and Hunting
-**Rule Set**
-- [Elastic Detection Rules](https://github.com/cyberwarboy/excellent-threat-detection/tree/master/Elastic%20Detection%20Rules)
-- [Splunk Detection Rules](https://github.com/cyberwarboy/excellent-threat-detection/tree/master/Splunk%20Detection%20Rules)
+**Threat Hunting Rule Set**
+- [All Threat Hunting Rules](https://github.com/cyberwarboy/excellent-threat-detection/tree/master/Threat%20Hunting%20Rule%20Set)
 
 **Documents , Trainings, Resources**
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
