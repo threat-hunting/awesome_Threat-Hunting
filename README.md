@@ -1,5 +1,5 @@
 # Awesome Threat Detection and Hunting Repository
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 
 ## Threat Detection and Hunting
 **Threat Hunting Rule Set**
