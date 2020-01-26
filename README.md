@@ -1,4 +1,4 @@
-# Excellent Threat Detection
+# Excellent Threat Detection and Huntind Repository
 
 ## Threat Detection and Hunting
 **Threat Hunting Rule Set**
