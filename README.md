@@ -1,4 +1,4 @@
-*******Awesome Threat Detection and Hunting library*******
+*****Awesome Threat Detection and Hunting library*****
 
 
 *Table of Content:*

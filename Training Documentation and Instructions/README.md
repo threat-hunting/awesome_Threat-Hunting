@@ -1,4 +1,4 @@
-***Awesome Threat Detection and Hunting Training Documentation and Instructions***
+*****Awesome Threat Detection and Hunting Training Documentation and Instructions*****
 
 #### Documents , Trainings, Resources
 
