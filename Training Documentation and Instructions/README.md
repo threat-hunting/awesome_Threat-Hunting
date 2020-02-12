@@ -1,6 +1,7 @@
-**Awesome Threat Detection and Hunting Training Documentation and Instructions**
+***Awesome Threat Detection and Hunting Training Documentation and Instructions***
 
-## Documents , Trainings, Resources
+### Documents , Trainings, Resources
+
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 - [The ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook): A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 - [Huntpedia](https://www.threathunting.net/files/huntpedia.pdf)
