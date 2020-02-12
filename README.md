@@ -1,4 +1,4 @@
-# Awesome Threat Detection and Hunting Repository
+# Awesome Threat Detection and Hunting library
 
 
 ## Threat Detection and Hunting
