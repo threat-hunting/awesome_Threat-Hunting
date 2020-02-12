@@ -3,7 +3,7 @@
 
 *Table of Content:*
 
-#### Threat Hunting Rule Set
+## Threat Hunting Rule Set
 - [All Threat Hunting Rules](https://threat-hunting.github.io/Awesome-ThreatHunting/Threat%20Hunting%20Rule%20Set)
 
 ### Training Documentation and Instructions
