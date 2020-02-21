@@ -1,5 +1,6 @@
 ***Awesome Threat Detection and Hunting library***
 
+This repository is a library of tools, guides, tutorials, instructions, resources, detection and corrolation rules (use case and threat case) for hunting and detecting cyber threats.
 
 *Table of Content:*
 
