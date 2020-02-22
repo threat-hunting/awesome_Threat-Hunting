@@ -3,23 +3,13 @@
 #### Documents , Trainings , Instructions
 
 
-- [Cyber Threat Hunting EC-Council](https://ciso.eccouncil.org/wp-content/uploads/2017/06/Cyber-Threat-Hunting.pdf) @@@@
 
-- [Threat Hunting with Bro IDS](https://www.jamesbower.com/threat-hunting-with-bro-ids/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=social#14225595-tw%231487983917678)
-
-- [Cyber Hunting: 5 Tips To Bag Your Prey](https://www.darkreading.com/risk/cyber-hunting-5-tips-to-bag-your-prey/a/d-id/1319634?_mc=RSS_DR_EDT)
-
-- [Windows Log Hunting with PowerShell](http://909research.com/windows-log-hunting-with-powershell/)
-
-
-- Hunting on the Cheap[Part1](https://www.endgame.com/blog/technical-blog/hunting-cheap-part-1-architecture),[Part2](https://www.endgame.com/blog/technical-blog/hunting-networks-part-2-higher-order-patterns),[Part3](https://www.endgame.com/blog/technical-blog/hunting-cheap-part-3-hunting-hosts),[Slide](https://files.sans.org/summit/Threat_Hunting_Incident_Response_Summit_2016/PDFs/Hunting-on-the-Cheap-Butler-Ahuja-Morris-Endgame.pdf)
 
 
 - [JA3: SSL/TLS Client Fingerprinting for Malware Detection](https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41)
 - [TLS Fingerprinting with JA3 and JA3S](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967)
 - [A profiling method for SSH Clients and Servers](https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c),[Slide](https://github.com/benjeems/Presentations/blob/master/BSides%202019%20%20-%20HASSH%20-%20a%20Profiling%20Method%20for%20SSH%20Clients%20and%20Servers.pdf)
 
-- [Leveraging DNS to Surface Attacker Activity](https://www.slideshare.net/sqrrl/leveraging-dns-to-surface-attacker-activity?from_action=save)
 - [Endgame Hunt Cycle](http://pages.endgame.com/rs/627-YBU-612/images/Endgame%20Hunt%20Methodology%20POV%203.24.16.pdf)
 
 - [Command-and-control Malware Traffic Playbook](https://www.demisto.com/command-control-malware-traffic-playbook/)
@@ -35,11 +25,14 @@
 
 - [Hunting for PowerShell Using Heatmaps](https://medium.com/@jshlbrd/hunting-for-powershell-using-heatmaps-69b70151fa5d)
 
+### 2020
+- [DeepBlueCLI: Powershell Threat Hunting](https://isc.sans.edu/forums/diary/DeepBlueCLI+Powershell+Threat+Hunting/25730/)
+- [Sysmon Threat Analysis Guide](https://www.varonis.com/blog/sysmon-and-threat-detection-exploring-the-sysmon-log/)
 
 ### 2019
 - [Signal the ATT&CK: Part 2 : Using orchestration and automation to enhance EDR capabilities, and to reduce ‘alert fatigue’](https://www.pwc.co.uk/issues/cyber-security-data-privacy/research/signal-att-and-ck-part-2.html)
 - [Rise of Legitimate Services for Backdoor Command and Control](https://anomali.cdn.rackfoundry.net/files/anomali-labs-reports/legit-services.pdf)
-
+- [Everything You Need To Know To Get Started Logging PowerShell](http://robwillis.info/2019/10/everything-you-need-to-know-to-get-started-logging-powershell/)
 
 ### 2018
 - [A Practical Model for Conducting Cyber Threat Hunting](https://www.sans.org/reading-room/whitepapers/threathunting/practical-model-conducting-cyber-threat-hunting-38710)
@@ -57,7 +50,9 @@
 - [Threat Hunting via Windows Event Logs](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1524493093.pdf)
 - [Threat Hunting via Sysmon](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1554993664.pdf)
 - [This Is the Fastest Way to Hunt Windows Endpoints](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1536251964.pdf)
-
+- [Hunting and detecting APTs using Sysmon and PowerShell logging](https://www.botconf.eu/wp-content/uploads/2018/12/2018-Tom-Ueltschi-Sysmon.pdf)
+- [Hunting For PowerShell Abuses-Part 1](https://www.peerlyst.com/posts/hunting-for-powershell-abuses-part-1-ali-ahangari-1)
+- [Hunting For PowerShell Abuses-Part 2](https://www.peerlyst.com/posts/hunting-for-powershell-abuses-part-2-ali-ahangari-1)
 
 
 ### 2017
@@ -83,8 +78,9 @@
 - [Advanced Incident Detection and Threat Hunting using Sysmon (and Splunk)- 2017](https://www.first.org/resources/papers/conf2017/Advanced-Incident-Detection-and-Threat-Hunting-using-Sysmon-and-Splunk.pdf)
 -  PowerShell Obfuscation Detection Using Science ( [Paper](https://www.blackhat.com/docs/us-17/thursday/us-17-Bohannon-Revoke-Obfuscation-PowerShell-Obfuscation-Detection-And%20Evasion-Using-Science-wp.pdf),[Slide](https://www.blackhat.com/docs/us-17/thursday/us-17-Bohannon-Revoke-Obfuscation-PowerShell-Obfuscation-Detection-And%20Evasion-Using-Science.pdf) )
 - [HellsBells, Let's Hunt PowerShells!](https://www.splunk.com/blog/2017/07/06/hellsbells-lets-hunt-powershells.html)
-
-
+- [Detecting the Elusive: Active Directory Threat Hunting](https://www.trimarcsecurity.com/post/detecting-the-elusive-active-directory-threat-hunting)
+- [Leveraging DNS to Surface Attacker Activity](https://www.slideshare.net/sqrrl/leveraging-dns-to-surface-attacker-activity?from_action=save)
+- [How to Hunt for Lateral Movement on Your Network](https://www.slideshare.net/sqrrl/how-to-hunt-for-lateral-movement-on-your-network)
 
 ### 2016
 - [The Hunter's Handbook](https://cyber-edge.com/wp-content/uploads/2016/08/The-Hunters-Handbook.pdf)
@@ -100,7 +96,7 @@
 - [Windows Commands Abused by Attackers](https://blogs.jpcert.or.jp/en/2016/01/windows-commands-abused-by-attackers.html)
 - [The Need for Investigation Playbooks at the SOC](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1496695240.pdf)
 - [Hunting the Known Unknowns (With PowerShell)](https://conf.splunk.com/files/2016/slides/hunting-the-known-unknowns-the-powershell-edition.pdf)
-
+- [A Threat Hunter Himself](https://www.slideshare.net/votadlos/a-threat-hunter-himself)
 
 ### 2015 and older
 - [A Simple Hunting Maturity Model](http://detect-respond.blogspot.com/2015/10/a-simple-hunting-maturity-model.html)
@@ -115,9 +111,10 @@
 - [Detecting dynamic DNS domains in Splunk](https://www.splunk.com/pdfs/events/govsummit/hunting_the_known_unknowns_with_DNS.pdf)
 - [Random Words on Entropy and DNS](https://www.splunk.com/blog/2015/10/01/random-words-on-entropy-and-dns.html)
 - [The Diamond Model of Intrusion Analysis](http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
-
+- [Advanced Threats and Lateral Movement Detection](https://www.slideshare.net/heinzarelli/advanced-threats-and-lateral-movement-detection)
 
 ### others 
+- [botconf](https://www.botconf.eu/archives/)
 - [The ThreatHunting Project](https://www.threathunting.net/)
 - [malwarearchaeology](https://www.malwarearchaeology.com)
 - [Active Directory Security](https://adsecurity.org/)
@@ -126,8 +123,15 @@
 - [Windows Hunting - A collection of Windows hunting queries](https://github.com/beahunt3r/Windows-Hunting)
 - [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
 - [The Sysmon and Threat Hunting Mimikatz wiki for the blue team](https://www.peerlyst.com/posts/the-sysmon-and-threat-hunting-mimikatz-wiki-for-the-blue-team-guurhart)
-
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 - [The ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook): A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
+
+- [Windows Log Hunting with PowerShell](http://909research.com/windows-log-hunting-with-powershell/) (link crpt)
+- [Cyber Threat Hunting EC-Council](https://ciso.eccouncil.org/wp-content/uploads/2017/06/Cyber-Threat-Hunting.pdf) @@@@
+
+- [Threat Hunting with Bro IDS](https://www.jamesbower.com/threat-hunting-with-bro-ids/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=social#14225595-tw%231487983917678)
+
+- [Cyber Hunting: 5 Tips To Bag Your Prey](https://www.darkreading.com/risk/cyber-hunting-5-tips-to-bag-your-prey/a/d-id/1319634?_mc=RSS_DR_EDT)
+
 
 
