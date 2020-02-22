@@ -2,29 +2,6 @@
 
 #### Documents , Trainings , Instructions
 
-
-
-
-
-- [JA3: SSL/TLS Client Fingerprinting for Malware Detection](https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41)
-- [TLS Fingerprinting with JA3 and JA3S](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967)
-- [A profiling method for SSH Clients and Servers](https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c),[Slide](https://github.com/benjeems/Presentations/blob/master/BSides%202019%20%20-%20HASSH%20-%20a%20Profiling%20Method%20for%20SSH%20Clients%20and%20Servers.pdf)
-
-- [Endgame Hunt Cycle](http://pages.endgame.com/rs/627-YBU-612/images/Endgame%20Hunt%20Methodology%20POV%203.24.16.pdf)
-
-- [Command-and-control Malware Traffic Playbook](https://www.demisto.com/command-control-malware-traffic-playbook/)
-
-- [osquery Across the Enterprise](https://medium.com/palantir/osquery-across-the-enterprise-3c3c9d13ec55)
-- [osquery For Security-Part1](https://medium.com/@clong/osquery-for-security-b66fffdf2daf),[Part2](https://medium.com/@clong/osquery-for-security-part-2-2e03de4d3721)
-- [Tracking a stolen code-signing certificate with osquery](https://blog.trailofbits.com/2017/10/10/tracking-a-stolen-code-signing-certificate-with-osquery/)
-- [Monitoring macOS hosts with osquery](https://blog.kolide.com/monitoring-macos-hosts-with-osquery-ba5dcc83122d)
-
-- [Splunking the Endpoint: Threat Hunting with Sysmon](https://medium.com/@haggis_m/splunking-the-endpoint-threat-hunting-with-sysmon-9dd956e3e1bd)
-
-- [Hunting with Sysmon](https://medium.com/@haggis_m/hunting-with-sysmon-38de012e62e6)
-
-- [Hunting for PowerShell Using Heatmaps](https://medium.com/@jshlbrd/hunting-for-powershell-using-heatmaps-69b70151fa5d)
-
 ### 2020
 - [DeepBlueCLI: Powershell Threat Hunting](https://isc.sans.edu/forums/diary/DeepBlueCLI+Powershell+Threat+Hunting/25730/)
 - [Sysmon Threat Analysis Guide](https://www.varonis.com/blog/sysmon-and-threat-detection-exploring-the-sysmon-log/)
@@ -81,6 +58,10 @@
 - [Detecting the Elusive: Active Directory Threat Hunting](https://www.trimarcsecurity.com/post/detecting-the-elusive-active-directory-threat-hunting)
 - [Leveraging DNS to Surface Attacker Activity](https://www.slideshare.net/sqrrl/leveraging-dns-to-surface-attacker-activity?from_action=save)
 - [How to Hunt for Lateral Movement on Your Network](https://www.slideshare.net/sqrrl/how-to-hunt-for-lateral-movement-on-your-network)
+- [Splunking the Endpoint: Threat Hunting with Sysmon](https://medium.com/@haggis_m/splunking-the-endpoint-threat-hunting-with-sysmon-9dd956e3e1bd)
+- [Hunting for PowerShell Using Heatmaps](https://medium.com/@jshlbrd/hunting-for-powershell-using-heatmaps-69b70151fa5d)
+- [Hunting with Sysmon](https://medium.com/@haggis_m/hunting-with-sysmon-38de012e62e6)
+
 
 ### 2016
 - [The Hunter's Handbook](https://cyber-edge.com/wp-content/uploads/2016/08/The-Hunters-Handbook.pdf)
@@ -113,6 +94,21 @@
 - [The Diamond Model of Intrusion Analysis](http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 - [Advanced Threats and Lateral Movement Detection](https://www.slideshare.net/heinzarelli/advanced-threats-and-lateral-movement-detection)
 
+
+
+### OsQuery
+- [osquery Across the Enterprise](https://medium.com/palantir/osquery-across-the-enterprise-3c3c9d13ec55)
+- [osquery For Security-Part1](https://medium.com/@clong/osquery-for-security-b66fffdf2daf),[Part2](https://medium.com/@clong/osquery-for-security-part-2-2e03de4d3721)
+- [Tracking a stolen code-signing certificate with osquery](https://blog.trailofbits.com/2017/10/10/tracking-a-stolen-code-signing-certificate-with-osquery/)
+- [Monitoring macOS hosts with osquery](https://blog.kolide.com/monitoring-macos-hosts-with-osquery-ba5dcc83122d)
+
+
+###JA3 and HASSH
+- [JA3: SSL/TLS Client Fingerprinting for Malware Detection](https://engineering.salesforce.com/open-sourcing-ja3-92c9e53c3c41)
+- [A profiling method for SSH Clients and Servers](https://engineering.salesforce.com/open-sourcing-hassh-abed3ae5044c),[Slide](https://github.com/benjeems/Presentations/blob/master/BSides%202019%20%20-%20HASSH%20-%20a%20Profiling%20Method%20for%20SSH%20Clients%20and%20Servers.pdf)
+- [TLS Fingerprinting with JA3 and JA3S](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967)
+
+
 ### others 
 - [botconf](https://www.botconf.eu/archives/)
 - [The ThreatHunting Project](https://www.threathunting.net/)
@@ -130,6 +126,7 @@
 - [Cyber Threat Hunting EC-Council](https://ciso.eccouncil.org/wp-content/uploads/2017/06/Cyber-Threat-Hunting.pdf) @@@@
 
 - [Threat Hunting with Bro IDS](https://www.jamesbower.com/threat-hunting-with-bro-ids/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=social#14225595-tw%231487983917678)
+- [Command-and-control Malware Traffic Playbook](https://www.demisto.com/command-control-malware-traffic-playbook/)
 
 - [Cyber Hunting: 5 Tips To Bag Your Prey](https://www.darkreading.com/risk/cyber-hunting-5-tips-to-bag-your-prey/a/d-id/1319634?_mc=RSS_DR_EDT)
 
