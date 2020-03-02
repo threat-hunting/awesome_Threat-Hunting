@@ -16,3 +16,10 @@ Tools, guides, tutorials, instructions, resources, detection and corrolation rul
 
 
 
+- [Linkedin Page Link](https://www.linkedin.com/company/threathunting)
+
+
+- [Twitter Page Link](https://www.twitter.com/threathunting_)
+
+
+
