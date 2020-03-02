@@ -1,7 +1,7 @@
 ##Mitre Attack
 
 |NO|Rule Name|Description|Author|OS Product Platform|MITRE Attack Techniques|Log Source|Rule Content|
-| ------ | ----------- | ----------- | ---------- | ---------- | ----------  |--|--|
+|---|---|---|---|---|---|---|---|
 |1|Console History| Checks for execution of Console History  | Mohammad Ghanbari  | Windows  | |sysmon| EventID=1 ( CommandLine="*Get-History*" OR CommandLine="*AppData\\Roaming\\Microsoft\\Windows\\PowerShell\\PSReadline\\ConsoleHost_history.txt*"  OR  CommandLine="*(Get-PSReadlineOption).HistorySavePath*") |
 |2| Named Pipes | Checks for  Named Pipes	| Mohammad Ghanbari	| Windows | |sysmon| EventID=17 pipe_name IN ( "\\isapi_http*","\\isapi_dg*" ,"\\isapi_dg2*" ,"\\isapi_http*" , "\\sdlrpc*" ,"\\aheec*" ,"\\winsession*" ,"\\lsassw*","\\rpchlp_3*"  ,"\\NamePipe_MoreWindows*" ,"\\pcheap_reuse*" , "\\PSEXESVC*" ,"\\PowerShellISEPipeName_*"  ,"\\csexec*"  , "\\paexec*" ,"\\remcom*") |
 |3| Named Pipes-CobaltStrike | Checks for  Named Pipes |Mohammad Ghanbari|Windows| |sysmon|EventID=17 pipe_name="\\msagent_*" |
