@@ -11,6 +11,6 @@
 
 | Remotely Query Login Sessions - Network | Checks for execution of Remotely Query Login Sessions | Mohammad Ghanbari | Windows	| |sysmon | EventID=3 Image="*\\qwinsta.exe" OR Process="qwinsta.exe" | 
 
-| Suspicious filename used | Checks for execution of Suspicious filename | Mohammad Ghanbari |Windows | | sysmon | EventID=1 Image IN ("*\\a.exe" , "*\\b.exe" , "*\\c.exe" , "*\\d.exe" , "*\\e.exe" , "*\\f.exe" ,"*\\g.exe" , "*\\h.exe" , "*\\i.exe" ,"*\\j.exe" ,"*\\k.exe","*\\l.exe" ,"*\\m.exe" ,"*\\n.exe" ,"*\\o.exe" ,"*\\p.exe" ,"*\\q.exe" ,"*\\r.exe" ,"*\\s.exe" ,"*\\t.exe" ,"*\\u.exe" ,"*\\v.exe" ,"*\\w.exe" ,"*\\x.exe" ,"*\\y.exe" ,"*\\z.exe" ,"*\\1.exe" ,"*\\2.exe" ,"*\\3.exe" ,"*\\4.exe" ,"*\\5.exe" ,"*\\6.exe" ,"*\\7.exe" ,"*\\8.exe" ,"*\\9.exe" , "*\\0.exe" ,"*\\10.exe") OR Process IN ( "a.exe" , "b.exe" , "c.exe" , "d.exe" , "e.exe" , "f.exe" ,"g.exe" , "h.exe",  "i.exe" ,"j.exe" ,"k.exe","l.exe" ,"m.exe" ,"n.exe" ,"o.exe" ,"p.exe" ,"q.exe" ,"r.exe" ,"s.exe" ,"t.exe" ,"u.exe" ,"v.exe" ,"w.exe" ,"x.exe" ,"y.exe" ,"z.exe" ,"1.exe" ,"2.exe" ,"3.exe" ,"4.exe" ,"5.exe" ,"6.exe" ,"7.exe" ,"8.exe" ,"9.exe" , "0.exe" ,"10.exe") | 
+
 
 
