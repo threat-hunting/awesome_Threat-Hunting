@@ -11,13 +11,3 @@
 
 | Data Compressed | Checks for execution of MITRE ATT&CK T1002 | Mohammad Ghanbari | Windows | T1002 | sysmon | EventID=1 ((Image="*\\powershell.exe" OR Process="powershell.exe") CommandLine="*-Recurse*Compress-Archive*" ) OR  ( ( Image="*\\rar.exe" OR Process="rar.exe") CommandLine="rar*a*") | 
 
-| Credential Dumping - ImageLoad | Checks for execution of Credential Dumping | Mohammad Ghanbari | Windows | T1003 | sysmon | EventId=7  ImageLoaded IN (  "C:\\Windows\\System32\\samlib.dll","C:\\Windows\\System32\\WinSCard.dll" , "C:\\Windows\\System32\\cryptdll.dll" , "C:\\Windows\\System32\\hid.dll" ,  "C:\\Windows\\System32\\vaultcli.dll" )  AND ( process_path!="*\\Sysmon.exe"  OR  process_path!="*\\svchost.exe" OR   process_path!="*\\logonui.exe") |
-
-| Credential Dumping - Process | Checks for execution of Credential Dumping | Mohammad Ghanbari | Windows | T1004 | sysmon | EventID=1 CommandLine IN ("*Invoke-Mimikatz -DumpCreds*" ,"gsecdump* -a" , "wce* -o" , "procdump* -ma lsass.exe*" , "ntdsutil*ac i ntds*ifm*create full") |
-
-| Credential Dumping - Process Access | Checks for execution of Credential Dumping | Mohammad Ghanbari | Windows | T1005 | sysmon | EventID=10 TargetImage="C:\\Windows\\system32\\lsass.exe"  GrantedAccess IN ("0x1010" , "0x1410"  , " 0x147a" ,"0x143a" )  CallTrace="C:\\Windows\\SYSTEM32\\ntdll.dll\*|C:\\Windows\\system32\\KERNELBASE.dll*|*UNKNOWN*" | 
-
-| Credential Dumping - Registry	| Checks for execution of Credential Dumping | Mohammad Ghanbari | Windows | T1006 | sysmon	| "(EventID = 12 OR EventID = 13 OR EventID = 14)  process_path!=""C:\\WINDOWS\\system32\\lsass.exe" "(object_path  IN  ""*\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Authentication\\Credential Provider\\*"" , ""*\\SYSTEM\\CurrentControlSet\\Control\\Lsa\\*"" ,  ""*\\SYSTEM\\CurrentControlSet\\Control\\SecurityProviders\\SecurityProviders\\*"" , ""*\\Control\\SecurityProviders\\WDigest\\*"" ) AND  object_path!= ""*\\Lsa\\RestrictRemoteSamEventThrottlingWindow""" |
-
-| Credential Dumping - Registry Save | Checks for execution of Credential Dumping | Mohammad Ghanbari | Windows | T1007 | sysmon	| EventID=1 (Image="*\\reg.exe" OR Process="reg.exe" ) ( CommandLine="*save*HKLM\\sam*"  OR CommandLine="*save*HKLM\\system*") |
-| Winlogon Helper DLL | Checks for execution of MITRE ATT&CK | Mohammad Ghanbari | Windows |T1004 |sysmon |(EventID = 12 or EventID = 13 or EventID = 14)  object_path  IN ( "*\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\user_nameinit\\*" , \\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\Shell\\*" , "*\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Winlogon\\Notify\\*") | 
