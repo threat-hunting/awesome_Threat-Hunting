@@ -68,8 +68,7 @@
 |62|Regsvcs/Regasm|Checks for execution of MITRE ATT&CK T1121|Mohammad Ghanbari|Windows|T1121|sysmon|EventID=3 Image="*\\regsvcs.exe" OR Image="*\\regasm.exe"|
 |63|Component Object Model Hijacking|Checks for execution of MITRE ATT&CK T1122|Mohammad Ghanbari|Windows|T1122|sysmon|(EventID=12 OR EventID=13 OR EventID=14 ) object_path="*\\Software\\Classes\\CLSID\\*"|
 |64|Audio Capture|Checks for execution of MITRE ATT&CK T1115|Mohammad Ghanbari|Windows|T1115|sysmon|EventID=2 Process="SoundRecorder.exe" OR CommandLine="*Get-AudioDevice*" OR CommandLine="*WindowsAudioDevice-Powershell-Cmdlet*"|
-|65|System Time Discovery|Checks for execution of MITRE ATT&CK T1124|Mohammad Ghanbari|Windows|T1124|sysmon|"EventID=1 ( Image=""*\\net.exe""  CommandLine=""*net* time*"") OR 
-( Process=""w32tm.exe"" OR CommandLine=""*Get-Date*"")"|
+|65|System Time Discovery|Checks for execution of MITRE ATT&CK T1124|Mohammad Ghanbari|Windows|T1124|sysmon|"EventID=1 ( Image=""*\\net.exe""  CommandLine=""*net* time*"") OR (Process=""w32tm.exe"" OR CommandLine=""*Get-Date*"")"|
 |66|Network Share Connection Removal|Checks for execution of MITRE ATT&CK T1126|Mohammad Ghanbari|Windows|T1126|sysmon|EventID=1 (Process="net.exe"  CommandLine="net delete")  OR  CommamndLine="Remove-SmbShare"  OR  CommandLine="Remove-FileShare"|
 |67|Trusted Developer Utilities|Checks for execution of MITRE ATT&CK T1127|Mohammad Ghanbari|Windows|T1127|sysmon|EventID=1 Process="MSBuild.exe" OR Process="msxsl.exe"|
 |68|Netsh Helper DLL-Registry|Checks for execution of MITRE ATT&CK T1128|Mohammad Ghanbari|Windows|T1128|sysmon|EventID= 1|(Image="*\\netsh.exe" AND CommandLine="*helper*")|
@@ -83,8 +82,7 @@
 |76|Application Shimming-Registry|Checks for execution of MITRE ATT&CK T1138|Mohammad Ghanbari|Windows|T1138|sysmon|(EventID= 12 or EventID= 13 OR EventID= 14)   object_path="*\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\AppCompatFlags\\InstalledSDB\\*")||
 |77|Deobfuscate/Decode Files or Information|Checks for execution of MITRE ATT&CK T1140|Mohammad Ghanbari|Windows|T1140|sysmon|EventID= 1|Image="*\\certutil.exe"  CommandLine="*decode*"|
 |78|Clear Command History|Checks for execution of MITRE ATT&CK T1146|Mohammad Ghanbari|Windows|T1146|sysmon|EventID= 1 CommandLine= "*rm (Get-PSReadlineOption).HistorySavePath*"  OR CommandLine="*del (Get-PSReadlineOption).HistorySavePath*" OR CommandLine= "*Set-PSReadlineOption –HistorySaveStyle SaveNothing*" OR CommandLine="*Remove-Item (Get-PSReadlineOption).HistorySavePath*"|
-|79|Hidden Files and Directories|Checks for execution of MITRE ATT&CK T1158|Mohammad Ghanbari|Windows|T1158|sysmon|"EventID=1 Image= ""*\\attrib.exe"" 
-CommandLine=""*+h*"" OR  CommandLine""*+s*"")"|
+|79|Hidden Files and Directories|Checks for execution of MITRE ATT&CK T1158|Mohammad Ghanbari|Windows|T1158|sysmon|"EventID=1 Image= ""*\\attrib.exe"" CommandLine=""*+h*"" OR  CommandLine""*+s*"")"|
 |80|Hidden Files and Directories-VSS|Checks for execution of MITRE ATT&CK T1158|Mohammad Ghanbari|Windows|T1158|sysmon|EventID=1  Image="*\\VolumeShadowCopy*\\*"  OR CommandLine= "*\\VolumeShadowCopy*\\*"|
 |81|MSHTA-FileAccess|Checks for execution of MITRE ATT&CK T1170|Mohammad Ghanbari|Windows|T1170|sysmon|(EventID= 11 OR EventID = 15)  file_name= "*.hta"|
 |82|Hooking|Checks for execution of MITRE ATT&CK T1179|Mohammad Ghanbari|Windows|T1179|sysmon|EventID= 1  Image= "*\\mavinject.exe" OR  CommandLine="*/INJECTRUNNING*")|
@@ -99,8 +97,8 @@ CommandLine=""*+h*"" OR  CommandLine""*+s*"")"|
 |91|BITS Jobs-Process|Checks for execution of MITRE ATT&CK T1197|Mohammad Ghanbari|Windows|T1197|sysmon|EventID= 1  Image="*\\bitsamin.exe" OR CommandLine="*Start-BitsTransfer*")|
 |92|Password Policy Discovery|Checks for execution of MITRE ATT&CK T1201|Mohammad Ghanbari|Windows|T1201|sysmon|EventID= 11  CommandLine="*net accounts*" OR CommandLine="*net accounts \/domain*"|
 |93|Indirect Command Execution|Checks for execution of MITRE ATT&CK T1202|Mohammad Ghanbari|Windows|T1202|sysmon|EventID= 1 Image IN ( "*\\pcalua.exe" , "*\\pcalua.exe" , "*\\bash.exe" , "*\\forfiles.exe")|
-|94|Time Providers|Checks for execution of MITRE ATT&CK T1209|Mohammad Ghanbari|Windows|T1209|sysmon|"(EventID= 12 OR EventID= 13 OR EventID= 14)   object_path=""*\\System\\CurrentControlSet\\Services\\W32Time\\TimeProviders\\*"""|
-|95|Credentials in Registry|Checks for execution of MITRE ATT&CK T1214|Mohammad Ghanbari|Windows|T1214|sysmon|EventID=1|CommandLine IN (  "reg query HKLM \/f password \/t REG_SZ \/s" , "reg query HKCU \/f password \/t REG_SZ \/s", "Get-UnattendedInstallFile","Get-Webconfig", "Get-ApplicationHost","Get-SiteListPassword",  "Get-CachedGPPPassword",  "Get-RegistryAutoLogon")|
+|94|Time Providers|Checks for execution of MITRE ATT&CK T1209|Mohammad Ghanbari|Windows|T1209|sysmon|"(EventID= 12 OR EventID= 13 OR EventID= 14) object_path=""*\\System\\CurrentControlSet\\Services\\W32Time\\TimeProviders\\*"""|
+|95|Credentials in Registry|Checks for execution of MITRE ATT&CK T1214|Mohammad Ghanbari|Windows|T1214|sysmon|EventID=1 CommandLine IN (  "reg query HKLM \/f password \/t REG_SZ \/s" , "reg query HKCU \/f password \/t REG_SZ \/s", "Get-UnattendedInstallFile","Get-Webconfig", "Get-ApplicationHost","Get-SiteListPassword",  "Get-CachedGPPPassword",  "Get-RegistryAutoLogon")|
 
 
 
