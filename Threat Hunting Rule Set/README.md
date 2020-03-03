@@ -8,4 +8,4 @@
 
 
 ## Menu 
-- [Back](https://threat-hunting.github.io/awesome_Threat-Hunting/Threat%20Hunting%20Rule%20Set)
+- [Back](https://threat-hunting.github.io/awesome_Threat-Hunting/)

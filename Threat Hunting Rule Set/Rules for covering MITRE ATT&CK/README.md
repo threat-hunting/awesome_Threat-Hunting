@@ -29,3 +29,12 @@
 |25|Masquerading - Location|Checks for execution of MITRE ATT&CK T1036|Mohammad Ghanbari|Windows|T1036|sysmon|EventID=11 file_path IN ( "*SysWOW64*" ,"*System32*", "*AppData*" ,"*Temp*") file_name IN ("*.exe" , "*.dll" , "*.bat" , "*.com" , "*.ps1" ,"*.py" ,"*.js" ,"*.vbs" ,"*.hta" )|
 |26|Logon Scripts|Checks for execution of MITRE ATT&CK T1037|Mohammad Ghanbari|Windows|T1037|sysmon|EventID=1 CommandLine="*REG*ADD*\\Environment*UserInitMprLogonScript*"|
 |27|Network Sniffing|Checks for execution of MITRE ATT&CK T1040|Mohammad Ghanbari|Windows|T1040	|sysmon|EventID=1 process_name  IN ("windump.exe", "logman.exe","tcpdump.exe" ,"wprui.exe","wpr.exe")|
+
+
+
+
+
+
+
+## Menu 
+- [Back](https://threat-hunting.github.io/awesome_Threat-Hunting/Threat%20Hunting%20Rule%20Set)
