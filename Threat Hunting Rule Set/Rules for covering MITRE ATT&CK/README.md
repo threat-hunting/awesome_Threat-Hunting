@@ -29,7 +29,18 @@
 |25|Masquerading - Location|Checks for execution of MITRE ATT&CK T1036|Mohammad Ghanbari|Windows|T1036|sysmon|EventID=11 file_path IN ( "*SysWOW64*" ,"*System32*", "*AppData*" ,"*Temp*") file_name IN ("*.exe" , "*.dll" , "*.bat" , "*.com" , "*.ps1" ,"*.py" ,"*.js" ,"*.vbs" ,"*.hta" )|
 |26|Logon Scripts|Checks for execution of MITRE ATT&CK T1037|Mohammad Ghanbari|Windows|T1037|sysmon|EventID=1 CommandLine="*REG*ADD*\\Environment*UserInitMprLogonScript*"|
 |27|Network Sniffing|Checks for execution of MITRE ATT&CK T1040|Mohammad Ghanbari|Windows|T1040	|sysmon|EventID=1 process_name  IN ("windump.exe", "logman.exe","tcpdump.exe" ,"wprui.exe","wpr.exe")|
-
+|28|Change Default File Association|Checks for execution of MITRE ATT&CK T1042|Mohammad Ghanbari|Windows|T1042|(EventID = 12 or EventID = 13 or EventID = 14)  object_path= "*\\SOFTWARE\\Classes\\*\\*"  OR object_path= "*\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\GlobalAssocChangedCounter"|
+|29|Windows Management Instrumentation-Instances of an Active Script Event Consumer-Process|Checks for execution of MITRE ATT&CK T1047|Mohammad Ghanbari|Windows|T1047|EventID=1  ParentCommandLine="C:\\Windows\\System32\\svchost.exe" OR CommandLine="C:\\WINDOWS\\system32\\wbem\\scrcons.exe"|
+|30|Windows Management Instrumentation - Process|Checks for execution of MITRE ATT&CK T1047|Mohammad Ghanbari|Windows|T1047|EventID=3 Image="*\\wmic.exe" CommandLine="*wmic*"|
+|31|Windows Management Instrumentation - Process|Checks for execution of MITRE ATT&CK T1047|Mohammad Ghanbari|Windows|T1047|EventID=1 ParentCommandLine="*wmiprvse.exe" OR process_path="*\\wmic.exe" OR CommandLine="*wmic*"|
+|32|System Network Connections Discovery|Checks for execution of MITRE ATT&CK T1049|Mohammad Ghanbari|Windows|T1050|EventID=1 ( Process="net.exe OR Process="netstat.exe" ) ( CommandLine="*net*use" OR CommandLine="*net*sessions*" OR CommandLine="*net*file*" OR CommandLine="*netstat*" ) OR CommandLine="*Get-NetTCPConnection*"|
+|33|New Service - Process|Checks for execution of MITRE ATT&CK T1050|Mohammad Ghanbari|Windows|T1050|EventID=1 Proccess="sc.exe" OR Proccess="powershell.exe" OR Proccess="cmd.exe" CommandLine IN ("*New-Service*BinaryPathName*" , "*sc*create*binpath*" , "*Get-WmiObject*Win32_Service*create*")|
+|34|Scheduled Task - Process|Checks for execution of MITRE ATT&CK T1053|Mohammad Ghanbari|Windows|T1053|EventID=1 Image="*\\taskeng.exe" OR  Image="*\\schtasks.exe" OR (Image="*\\svchost.exe"  ParentCommandLine!="C:\\Windows\\System32\\services.exe")|
+|35|Indicator Blocking - Driver unloaded|Checks for execution of MITRE ATT&CK T1054|Mohammad Ghanbari|Windows|T1054|EventID=1 Process="fltmc.exe" OR CommandLine="*fltmc*unload*"|
+|36|Indicator Blocking - Sysmon registry edited from other source|Checks for execution of MITRE ATT&CK T1054|Mohammad Ghanbari|Windows|T1054|"""(EventID = 12 OR EventID = 13 OR EventID = 14)  (Image!=""""*\\Sysmon64.exe"""" OR Image!=""""Sysmon.exe"""") object_path  IN  (""""*\\System\\CurrentControlSet\\Services\\SysmonDrv\\*"""" , """"*\\System\\CurrentControlSet\\Services\\Sysmon\\*"""" ,""""*\\System\\CurrentControlSet\\Services\\Sysmon64\\*"""")"""|
+|37|Process Injection - Process|Checks for execution of MITRE ATT&CK T1055|Mohammad Ghanbari|Windows|T1055|EventID=1 CommandLine="*Invoke-DllInjection*"  OR CommandLine="c:\\windows\sysnative\\"|
+|38|Process Discovery|Checks for execution of MITRE ATT&CK T1075|Mohammad Ghanbari|Windows|T1075|EventID=1 Image="*\\tasklist.exe" CommandLine="*Get-Process*"|
+|39|Command-Line Interface|Checks for execution of MITRE ATT&CK T1059|Mohammad Ghanbari|Windows|T1059|Eventid=1 Process="*cmd.exe" |
 
 
 
