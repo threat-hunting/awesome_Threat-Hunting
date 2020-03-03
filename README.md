@@ -4,7 +4,7 @@
 This repository is a library for hunting and detecting cyber threats.
 
 This library contains a list of:
-Tools, guides, tutorials, instructions, resources, detection and corrolation rules (use case and threat case for a variety of SIEM  platform such as  SPLUNK , ELK ,... )
+Tools, guides, tutorials, instructions, resources, detection and correlation rules (use case and threat case for a variety of SIEM  platform such as  SPLUNK , ELK ,... )
 
 *Table of Content:*
 
@@ -16,6 +16,9 @@ Tools, guides, tutorials, instructions, resources, detection and corrolation rul
 
 
 
+
+
+## Social Media:
 - [Linkedin Page Link](https://www.linkedin.com/company/threathunting)
 
 
