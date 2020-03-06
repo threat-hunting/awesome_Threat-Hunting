@@ -14,7 +14,7 @@
 - [Sysmon - DFIR](https://github.com/MHaggis/sysmon-dfir): A curated list of resources for learning about deploying, managing and hunting with Microsoft Sysmon. Contains presentations, deployment methods, configuration file examples, blogs and additional github repositories.
 - [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config): Sysmon configuration file template with default high-quality event tracing
 - [sysmon-modular](https://github.com/olafhartong/sysmon-modular): A repository of sysmon configuration modules
-- [Sysmon Threat Intelligence Configuration] (https://github.com/ion-storm/sysmon-config): Advanced Sysmon configuration, Installer & Auto Updater with high-quality event tracing
+- [Sysmon Threat Intelligence Configuration](https://github.com/ion-storm/sysmon-config): Advanced Sysmon configuration, Installer & Auto Updater with high-quality event tracing
 - [ThreatHunting](https://github.com/olafhartong/ThreatHunting): A Splunk app mapped to MITRE ATT&CK to guide your threat hunts
 - [Flare](https://github.com/austin-taylor/flare): Flare is a network analytic framework designed for data scientists, security researchers, and network professionals. 
 - [RedHunt](https://github.com/redhuntlabs/RedHunt-OS): Virtual Machine for Adversary Emulation and Threat Hunting by RedHunt Labs
