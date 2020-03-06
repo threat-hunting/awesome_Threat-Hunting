@@ -18,7 +18,7 @@ Tools, guides, tutorials, instructions, resources, intelligence, detection and c
 - [A list of Related Threat Detection and Hunting Tools,Dataset and Framework ](https://threat-hunting.github.io/awesome_Threat-Hunting/Tools%2CDataset%2CFramework)
 
 ### Resources and Useful Links
-- [A list of Related Threat Detection and Hunting Resources and Links](https://threat-hunting.github.io/awesome_Threat-Hunting/Resources%20and%20Useful%20Links)
+- [A list of Related Threat Detection and Hunting Other Resources and Links](https://threat-hunting.github.io/awesome_Threat-Hunting/Other%20Resources%20and%20Useful%20Links)
 
 ### Threat Intelligence
 
