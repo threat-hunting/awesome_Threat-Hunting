@@ -1,5 +1,4 @@
-Awesome Threat Detection and Hunting Resources and Useful Links
-
+# Awesome Threat Detection and Hunting Resources and Useful Links
 
 - [botconf](https://www.botconf.eu/archives/)
 - [The ThreatHunting Project](https://www.threathunting.net/)
