@@ -16,7 +16,7 @@
 - [sysmon-modular](https://github.com/olafhartong/sysmon-modular): A repository of sysmon configuration modules
 - [Sysmon Threat Intelligence Configuration] (): Advanced Sysmon configuration, Installer & Auto Updater with high-quality event tracing
 - [ThreatHunting](https://github.com/olafhartong/ThreatHunting): A Splunk app mapped to MITRE ATT&CK to guide your threat hunts
--[Flare](https://github.com/austin-taylor/flare): Flare is a network analytic framework designed for data scientists, security researchers, and network professionals. 
+- [Flare](https://github.com/austin-taylor/flare): Flare is a network analytic framework designed for data scientists, security researchers, and network professionals. 
 - [RedHunt](https://github.com/redhuntlabs/RedHunt-OS): Virtual Machine for Adversary Emulation and Threat Hunting by RedHunt Labs
 - [Oriana](https://github.com/mvelazc0/Oriana): Oriana is a threat hunting tool that leverages a subset of Windows events to build relationships, calculate totals and run analytics. The results are presented in a Web layer to help defenders identify outliers and suspicious behavior on corporate environments. 
 - [Detection Lab](https://github.com/clong/DetectionLab/): Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices
