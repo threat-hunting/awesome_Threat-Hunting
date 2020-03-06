@@ -1,3 +1,6 @@
+Awesome Threat Detection and Hunting Resources and Useful Links
+
+
 - [botconf](https://www.botconf.eu/archives/)
 - [The ThreatHunting Project](https://www.threathunting.net/)
 - [malwarearchaeology](https://www.malwarearchaeology.com)
@@ -9,3 +12,7 @@
 - [The Sysmon and Threat Hunting Mimikatz wiki for the blue team](https://www.peerlyst.com/posts/the-sysmon-and-threat-hunting-mimikatz-wiki-for-the-blue-team-guurhart)
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 - [The ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook): A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
+
+
+## Menu 
+- [Back](https://threat-hunting.github.io/awesome_Threat-Hunting/)
