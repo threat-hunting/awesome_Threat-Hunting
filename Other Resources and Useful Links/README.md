@@ -4,7 +4,7 @@
 - [The ThreatHunting Project](https://www.threathunting.net/)
 - [malwarearchaeology](https://www.malwarearchaeology.com)
 - [Active Directory Security](https://adsecurity.org/)
-- [Expert Investigation Guide - Threat Hunting (https://github.com/Foundstone/ExpertInvestigationGuides/tree/master/ThreatHunting)
+- [Expert Investigation Guide - Threat Hunting] (https://github.com/Foundstone/ExpertInvestigationGuides/tree/master/ThreatHunting)
 - [SANS cyber security summit archives](https://www.sans.org/cyber-security-summit/archives/)
 - [Windows Hunting - A collection of Windows hunting queries](https://github.com/beahunt3r/Windows-Hunting)
 - [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
