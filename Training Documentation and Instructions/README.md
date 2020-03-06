@@ -10,6 +10,8 @@
 - [Signal the ATT&CK: Part 2 : Using orchestration and automation to enhance EDR capabilities, and to reduce ‘alert fatigue’](https://www.pwc.co.uk/issues/cyber-security-data-privacy/research/signal-att-and-ck-part-2.html)
 - [Rise of Legitimate Services for Backdoor Command and Control](https://anomali.cdn.rackfoundry.net/files/anomali-labs-reports/legit-services.pdf)
 - [Everything You Need To Know To Get Started Logging PowerShell](http://robwillis.info/2019/10/everything-you-need-to-know-to-get-started-logging-powershell/)
+- [Command-and-control Malware Traffic Playbook](https://www.demisto.com/command-control-malware-traffic-playbook/)
+
 
 ### 2018
 - [A Practical Model for Conducting Cyber Threat Hunting](https://www.sans.org/reading-room/whitepapers/threathunting/practical-model-conducting-cyber-threat-hunting-38710)
@@ -30,6 +32,7 @@
 - [Hunting and detecting APTs using Sysmon and PowerShell logging](https://www.botconf.eu/wp-content/uploads/2018/12/2018-Tom-Ueltschi-Sysmon.pdf)
 - [Hunting For PowerShell Abuses-Part 1](https://www.peerlyst.com/posts/hunting-for-powershell-abuses-part-1-ali-ahangari-1)
 - [Hunting For PowerShell Abuses-Part 2](https://www.peerlyst.com/posts/hunting-for-powershell-abuses-part-2-ali-ahangari-1)
+- [Threat Hunting with Bro IDS](https://www.jamesbower.com/threat-hunting-with-bro-ids/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=social#14225595-tw%231487983917678)
 
 
 ### 2017
@@ -93,6 +96,7 @@
 - [Random Words on Entropy and DNS](https://www.splunk.com/blog/2015/10/01/random-words-on-entropy-and-dns.html)
 - [The Diamond Model of Intrusion Analysis](http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 - [Advanced Threats and Lateral Movement Detection](https://www.slideshare.net/heinzarelli/advanced-threats-and-lateral-movement-detection)
+- [Cyber Hunting: 5 Tips To Bag Your Prey](https://www.darkreading.com/risk/cyber-hunting-5-tips-to-bag-your-prey/a/d-id/1319634?_mc=RSS_DR_EDT)
 
 
 
@@ -109,26 +113,8 @@
 - [TLS Fingerprinting with JA3 and JA3S](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967)
 
 
-### others 
-- [botconf](https://www.botconf.eu/archives/)
-- [The ThreatHunting Project](https://www.threathunting.net/)
-- [malwarearchaeology](https://www.malwarearchaeology.com)
-- [Active Directory Security](https://adsecurity.org/)
-- [Expert Investigation Guide - Threat Hunting](https://github.com/Foundstone/ExpertInvestigationGuides/tree/master/ThreatHunting)
-- [SANS cyber security summit archives](https://www.sans.org/cyber-security-summit/archives/)
-- [Windows Hunting - A collection of Windows hunting queries](https://github.com/beahunt3r/Windows-Hunting)
-- [Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
-- [The Sysmon and Threat Hunting Mimikatz wiki for the blue team](https://www.peerlyst.com/posts/the-sysmon-and-threat-hunting-mimikatz-wiki-for-the-blue-team-guurhart)
-- [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
-- [The ThreatHunter-Playbook](https://github.com/Cyb3rWard0g/ThreatHunter-Playbook): A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
-- [Windows Log Hunting with PowerShell](http://909research.com/windows-log-hunting-with-powershell/) (link crpt)
-- [Cyber Threat Hunting EC-Council](https://ciso.eccouncil.org/wp-content/uploads/2017/06/Cyber-Threat-Hunting.pdf) @@@@
 
-- [Threat Hunting with Bro IDS](https://www.jamesbower.com/threat-hunting-with-bro-ids/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=social#14225595-tw%231487983917678)
-- [Command-and-control Malware Traffic Playbook](https://www.demisto.com/command-control-malware-traffic-playbook/)
-
-- [Cyber Hunting: 5 Tips To Bag Your Prey](https://www.darkreading.com/risk/cyber-hunting-5-tips-to-bag-your-prey/a/d-id/1319634?_mc=RSS_DR_EDT)
 
 
 
