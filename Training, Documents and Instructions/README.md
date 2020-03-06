@@ -5,13 +5,15 @@
 ### 2020
 - [DeepBlueCLI: Powershell Threat Hunting](https://isc.sans.edu/forums/diary/DeepBlueCLI+Powershell+Threat+Hunting/25730/)
 - [Sysmon Threat Analysis Guide](https://www.varonis.com/blog/sysmon-and-threat-detection-exploring-the-sysmon-log/)
-
+- [Ghost in the shell: Investigating web shell attack](https://www.microsoft.com/security/blog/2020/02/04/ghost-in-the-shell-investigating-web-shell-attacks/) 
+- [Detecting Lateral Movement with WinSCP](http://az4n6.blogspot.com/2020/02/detecting-laterial-movment-with-winscp.html) 
 ### 2019
 - [Signal the ATT&CK: Part 2 : Using orchestration and automation to enhance EDR capabilities, and to reduce ‘alert fatigue’](https://www.pwc.co.uk/issues/cyber-security-data-privacy/research/signal-att-and-ck-part-2.html)
 - [Rise of Legitimate Services for Backdoor Command and Control](https://anomali.cdn.rackfoundry.net/files/anomali-labs-reports/legit-services.pdf)
 - [Everything You Need To Know To Get Started Logging PowerShell](http://robwillis.info/2019/10/everything-you-need-to-know-to-get-started-logging-powershell/)
 - [Command-and-control Malware Traffic Playbook](https://www.demisto.com/command-control-malware-traffic-playbook/)
-
+- [Hunting for PowerShell Abuse](https://speakerdeck.com/heirhabarov/hunting-for-powershell-abuse)
+- [Getting Started With MITRE Attack](https://www.mitre.org/sites/default/files/publications/mitre-getting-started-with-attack-october-2019.pdf)
 
 ### 2018
 - [A Practical Model for Conducting Cyber Threat Hunting](https://www.sans.org/reading-room/whitepapers/threathunting/practical-model-conducting-cyber-threat-hunting-38710)
@@ -33,6 +35,7 @@
 - [Hunting For PowerShell Abuses-Part 1](https://www.peerlyst.com/posts/hunting-for-powershell-abuses-part-1-ali-ahangari-1)
 - [Hunting For PowerShell Abuses-Part 2](https://www.peerlyst.com/posts/hunting-for-powershell-abuses-part-2-ali-ahangari-1)
 - [Threat Hunting with Bro IDS](https://www.jamesbower.com/threat-hunting-with-bro-ids/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=social#14225595-tw%231487983917678)
+- [Definitive Guide to SOC-as-a-Service](https://cyber-edge.com/wp-content/uploads/2019/01/Arctic-Wolf-Def-Guide.pdf)
 
 
 ### 2017
@@ -81,6 +84,7 @@
 - [The Need for Investigation Playbooks at the SOC](https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1496695240.pdf)
 - [Hunting the Known Unknowns (With PowerShell)](https://conf.splunk.com/files/2016/slides/hunting-the-known-unknowns-the-powershell-edition.pdf)
 - [A Threat Hunter Himself](https://www.slideshare.net/votadlos/a-threat-hunter-himself)
+- [Hunt Evil](https://www.threathunting.net/files/hunt-evil-practical-guide-threat-hunting.pdf)
 
 ### 2015 and older
 - [A Simple Hunting Maturity Model](http://detect-respond.blogspot.com/2015/10/a-simple-hunting-maturity-model.html)
@@ -97,7 +101,7 @@
 - [The Diamond Model of Intrusion Analysis](http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)
 - [Advanced Threats and Lateral Movement Detection](https://www.slideshare.net/heinzarelli/advanced-threats-and-lateral-movement-detection)
 - [Cyber Hunting: 5 Tips To Bag Your Prey](https://www.darkreading.com/risk/cyber-hunting-5-tips-to-bag-your-prey/a/d-id/1319634?_mc=RSS_DR_EDT)
-
+- [Command & Control:Understanding, Denying and Detecting](https://arxiv.org/pdf/1408.1136.pdf)
 
 
 ### OsQuery

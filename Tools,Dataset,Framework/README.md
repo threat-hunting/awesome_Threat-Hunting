@@ -15,7 +15,7 @@
 - [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config): Sysmon configuration file template with default high-quality event tracing
 - [sysmon-modular](https://github.com/olafhartong/sysmon-modular): A repository of sysmon configuration modules
 - [Sysmon Threat Intelligence Configuration](https://github.com/ion-storm/sysmon-config): Advanced Sysmon configuration, Installer & Auto Updater with high-quality event tracing
-- [ThreatHunting](https://github.com/olafhartong/ThreatHunting): A Splunk app mapped to MITRE ATT&CK to guide your threat hunts
+- [ThreatHunting App For Splunk](https://github.com/olafhartong/ThreatHunting): A Splunk app mapped to MITRE ATT&CK to guide your threat hunts
 - [Flare](https://github.com/austin-taylor/flare): Flare is a network analytic framework designed for data scientists, security researchers, and network professionals. 
 - [RedHunt](https://github.com/redhuntlabs/RedHunt-OS): Virtual Machine for Adversary Emulation and Threat Hunting by RedHunt Labs
 - [Oriana](https://github.com/mvelazc0/Oriana): Oriana is a threat hunting tool that leverages a subset of Windows events to build relationships, calculate totals and run analytics. The results are presented in a Web layer to help defenders identify outliers and suspicious behavior on corporate environments. 
@@ -27,6 +27,27 @@
 - [Sigma](https://github.com/Neo23x0/sigma):Sigma is a generic and open signature format that allows you to describe relevant log events in a straight forward manner. 
 - [Splunk Boss of the SOC version 2 dataset](https://github.com/splunk/botsv2): A sample security dataset and CTF platform for information security professionals, researchers, students, and enthusiasts.
 - [Samples of Security Related Data](https://www.secrepo.com/)
+- [EKTotal](https://github.com/nao-sec/ektotal): EKTotal is an integrated analysis tool that can automatically analyze the traffic of Drive-by Download attacks.
+- [E-Mail Header Analyzer](https://github.com/lnxg33k/email-header-analyzer): E-Mail header analyzer is a tool written in flask for parsing email headers and converting them to a human readable format.
+- [Dradis](https://dradisframework.com/ce/):Dradis CE is an extensible, cross-platform, open-source reporting framework for generating one-click reports that’ll save you hours on every project
+- [Memhunter](https://github.com/marcosd4h/memhunter):Automated hunting of memory-resident malware at scale
+- [BLUESPAWN](https://github.com/ION28/BLUESPAWN):BLUESPAWN helps blue teams monitor Windows systems in real-time against active attackers by detecting anomalous activity
+- [PcapXray](https://github.com/Srinivas11789/PcapXray): A Network Forensics Tool - To visualize a Packet Capture offline as a Network Diagram including device identification, highlight important communication and file extraction
+- [LOLBAS](https://lolbas-project.github.io/): The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques.
+- [AIL framework](https://github.com/CIRCL/AIL-framework): AIL is a modular framework to analyze potential information leaks from unstructured data sources like pastes from Pastebin or similar services or unstructured data streams.
+- [EKFiddle](https://github.com/malwareinfosec/EKFiddle): A framework based on the Fiddler web debugger to analyze malicious web traffic.
+- [RITA](https://github.com/activecm/rita): RITA is an open-source framework for network traffic analysis.
+- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team): Small and highly portable detection tests based on MITRE's ATT&CK.
+- [OwlH](https://www.owlh.net/): an Open Source project to Visualize and Manage Suricata, Zeek & Moloch life cycles
+- [TRAM](https://github.com/mitre-attack/tram): Threat Report ATT&CK™ Mapping (TRAM) is a tool to aid analyst in mapping finished reports to ATT&CK.
+- [IntelMQ](https://github.com/certtools/intelmq): IntelMQ is a solution for IT security teams (CERTs & CSIRTs, SOCs, abuse departments, etc.) for collecting and processing security feeds (such as log files) using a message queuing protocol.
+- [Redline](https://www.fireeye.com/services/freeware/redline.html): Redline, FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
+- [ATT&CK™-Tools](https://github.com/nshalabi/ATTACK-Tools) ATT&CK™ View is a planning tool that helps defenders in designing an adversary emulation plans based on MITRE™ ATT&CK™ framework in a structured approach
+
+
+## other
+-[The Empire (3.0)](https://github.com/BC-SECURITY/Empire/): Empire 3.0 is a PowerShell and Python 3.x post-exploitation framework. 
+ 
 
 
 ## Menu 
