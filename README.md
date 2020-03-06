@@ -1,4 +1,4 @@
-***Awesome Threat Detection and Hunting library***
+# Awesome Threat Detection and Hunting library***
 
 
 This repository is a library for hunting and detecting cyber threats.
