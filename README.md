@@ -8,7 +8,7 @@ Tools, guides, tutorials, instructions, resources, intelligence, detection and c
 
 *Table of Content:*
 
-### Threat Hunting Rule Set
+### Threat Hunting Rule Set For SIEM (splunk, ELK, ...)
 - [All Threat Hunting Rules](https://threat-hunting.github.io/awesome_Threat-Hunting/Threat%20Hunting%20Rule%20Set)
 
 ### Training, Documents and Instructions
