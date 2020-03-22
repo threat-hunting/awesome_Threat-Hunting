@@ -79,9 +79,53 @@ http://maps.ie
 http://earthexplorer.usgs.gov
 http://worldwind.earth/explorer/
 
-taskiy.net  Location based search engine 
-http://piperpal.com  Location based search engine 
+http://taskiy.netLocation based search engine 
+http://piperpal.com Location based search engine 
 http://worldc.am  location based search engine
+
+### Free people search engine
+https://advancedbackgroundchecks.com
+https://anywho.com/whitepages
+https://cvgadget.com
+https://findpeoplesearch.com
+https://getpeoplesearch.com
+https://johndoe.com
+https://mylife.com/people-search/
+https://w3.telephonedirectories.us/People-Search
+https://peoplefinder.com
+https://peoplesearchnow.com
+https://privateeye.com
+https://radaris.com
+https://smartbackgroundchecks.com
+http://snitch.name
+https://usa-people-search.com
+https://webmii.com
+https://zabasearch.com
+https://xlek.com/search_results.php#
+https://spytox.com
+http://sydex.net
+https://thatsthem.com
+https://truepeoplesearch.com
+https://unittus.com
+
+### Username search tools
+http://searchpof.com
+http://snapdex.com
+http://redditcommentsearch.com
+http://gramuser.com
+http://souocara.com
+http://peekyou.com/username
+http://checkusernames.com
+http://instantusername.com/#/
+http://namecheckr.com
+http://namecheckup.com
+http://namechk.com
+http://namevine.com
+http://namecheck.umeridrisi.com
+http://checkuser.org
+http://getpeoplesearch.com/username
+http://usersearch.org
+http://yourbrand.ai
 
 
 ## Menu 
