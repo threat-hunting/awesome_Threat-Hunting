@@ -43,6 +43,7 @@
 - [IntelMQ](https://github.com/certtools/intelmq): IntelMQ is a solution for IT security teams (CERTs & CSIRTs, SOCs, abuse departments, etc.) for collecting and processing security feeds (such as log files) using a message queuing protocol.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html): Redline, FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
 - [ATT&CK™-Tools](https://github.com/nshalabi/ATTACK-Tools) ATT&CK™ View is a planning tool that helps defenders in designing an adversary emulation plans based on MITRE™ ATT&CK™ framework in a structured approach
+- [Sublime Platform](https://github.com/sublime-security/sublime-platform): An open platform for detection, response, and threat hunting in email environments. Sublime lets you write advanced detections as code to alert and remediate threats like phishing in real-time.
 
 
 ## other
