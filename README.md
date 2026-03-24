@@ -23,6 +23,7 @@ Tools, guides, tutorials, instructions, resources, intelligence, detection and c
 ### Threat Intelligence Resources
 
 - [A list of Related Threat Intelligence Resources and Links](https://threat-hunting.github.io/awesome_Threat-Hunting/Threat%20Intelligence)
+- [defend.network](https://defend.network) - Free AI-powered daily threat briefings structured by threat type, industry, and severity, with weekly vulnerability reports and remediation guidance.
 
 
 
