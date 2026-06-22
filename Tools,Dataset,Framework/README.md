@@ -40,7 +40,7 @@
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team): Small and highly portable detection tests based on MITRE's ATT&CK.
 - [OwlH](https://www.owlh.net/): an Open Source project to Visualize and Manage Suricata, Zeek & Moloch life cycles
 - [TRAM](https://github.com/mitre-attack/tram): Threat Report ATT&CK™ Mapping (TRAM) is a tool to aid analyst in mapping finished reports to ATT&CK.
-- [ThreatMapper](https://github.com/anpa1200/threatmapper): CTI-to-detection workbench for mapping threat reports to ATT&CK techniques, comparing TTP overlap, identifying detection gaps, and exporting analyst-ready outputs.
+- [AdversaryGraph](https://github.com/anpa1200/adversarygraph): CTI-to-detection workbench for mapping threat reports and IOCs to ATT&CK techniques, comparing actor TTP overlap, identifying detection gaps, and exporting analyst-ready outputs.
 - [IntelMQ](https://github.com/certtools/intelmq): IntelMQ is a solution for IT security teams (CERTs & CSIRTs, SOCs, abuse departments, etc.) for collecting and processing security feeds (such as log files) using a message queuing protocol.
 - [Redline](https://www.fireeye.com/services/freeware/redline.html): Redline, FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
 - [ATT&CK™-Tools](https://github.com/nshalabi/ATTACK-Tools) ATT&CK™ View is a planning tool that helps defenders in designing an adversary emulation plans based on MITRE™ ATT&CK™ framework in a structured approach
