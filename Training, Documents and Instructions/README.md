@@ -2,6 +2,9 @@
 
 #### Documents , Trainings , Instructions
 
+### Interactive Simulation Platforms & Labs
+- [SecNav](https://secnavpro.com) - Interactive incident response and threat hunting simulation engine featuring 43+ realistic breach scenarios across SOC, IR, Cloud Security, and Red Teaming.
+
 ### 2020
 - [DeepBlueCLI: Powershell Threat Hunting](https://isc.sans.edu/forums/diary/DeepBlueCLI+Powershell+Threat+Hunting/25730/)
 - [Sysmon Threat Analysis Guide](https://www.varonis.com/blog/sysmon-and-threat-detection-exploring-the-sysmon-log/)
