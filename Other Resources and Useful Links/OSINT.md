@@ -10,7 +10,7 @@ https://onecraigs.com
 https://searchcraigslist.org
 https://allcraigslistsearch.com
 http://clfind.com
-http://extads.org
+https://extads.org
 http://craigslist.thingweb.com
 http://zoomthelist.com
 http://craigslistcars.org
@@ -110,3 +110,4 @@ http://checkuser.org
 http://getpeoplesearch.com/username
 http://usersearch.org
 http://yourbrand.ai
+https://github.com/Xquik-dev/x-twitter-scraper
